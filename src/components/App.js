@@ -1,7 +1,7 @@
 import React from 'react';
 import YeomanImage from './YeomanImage';
 import './app.css';
-import LoginSignup from './LoginSignup';
+import LoginSignup from './LoginSignup/LoginSignup';
 
 class AppComponent extends React.Component {
 
